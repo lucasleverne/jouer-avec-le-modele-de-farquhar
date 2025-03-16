@@ -4,10 +4,6 @@ Created on Sun Mar 16 08:15:18 2025
 
 @author: LEVERNE
 """
-git add requirements.txt
-git commit -m "Add requirements file"
-git push origin main
-
 import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
